@@ -1,0 +1,19 @@
+{
+    "name": "tremeros/first-lib",
+    "description": "First test lib",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tremeros\\FirstLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paweł",
+            "email": "pawel.tylczynski@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
